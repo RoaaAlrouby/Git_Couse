@@ -1,2 +1,2 @@
-# Git_Couse
+# Git_Course
 qw
